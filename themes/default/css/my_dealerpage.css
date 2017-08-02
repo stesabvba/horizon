@@ -1,0 +1,70 @@
+.my_dealer_hours_form .row {
+	
+}
+
+.my_dealer_hours_form .period-actions {
+	padding-top: 22px;
+}
+
+.my_dealer_hours_form .btn-add-period:before,
+.my_dealer_hours_form .btn-save-period:before,
+.my_dealer_hours_form .btn-delete-period:before {
+	font-family: 'FontAwesome';	
+	padding-right: 5px;
+}
+
+.my_dealer_hours_form .btn-save-period:before {
+	content:'\f0c7';
+
+}
+
+.my_dealer_hours_form .btn-delete-period:before {
+	content:'\f014';
+}
+
+.my_dealer_hours_form .btn-add-period:before {
+	content:'\f017';
+}
+
+.my_dealer_hours_form {
+	border-bottom: solid 1px #ddd;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.dealer_hour_period  {
+	margin-top: 10px;
+}
+
+.dealer_hourtype,
+.my_dealer_hours_form input {
+	padding-top:3Px;
+	padding-bottom:3Px;
+	font-size:12px;
+}
+
+.my-dealer-images--imagewrapper {
+	cursor: pointer;
+}
+
+#my_dealer-detaillink {
+	padding-top:30px;
+	display: block;
+	text-decoration: none;	
+}
+
+#my_dealer-detaillink:before {
+	font-family:'FontAwesome';
+	content:'\f002';
+	padding-right: 5px;
+}
+
+#my_dealer--row_filter {
+	margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 992px) {   
+	#my_dealer-detaillink {
+		padding-top: 0px;
+	}
+}

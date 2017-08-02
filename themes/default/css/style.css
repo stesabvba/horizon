@@ -1,0 +1,1745 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size:12px;
+	font-weight:300;
+	line-height:1.6em;
+	color:#656565;
+}
+
+.navbar-default
+{
+	background-color: #fff;
+	border-color: #fff;
+	
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+
+.reference_type 
+{
+	color: #75cdcd;
+}
+
+.reference_type:hover, .reference_type:visited
+{
+	color: #75cdcd;
+	font-weight: bold;
+}
+
+.panel-title a
+{
+	color: #fff;
+}
+
+.diazgreen {
+	color: #75cdcd;
+}
+
+.btn-diaz{
+	background-color: #75cdcd;
+	color: #fff;
+	
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+
+
+#social_media_list
+{
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+
+}
+#social_media_list li
+{
+	display: inline;
+	height: 32px;
+	width: 32px;
+	margin: 5px;
+}
+.option_error
+{
+	background-color: #f2dede;
+}
+
+.option_warning
+{
+	background-color: #fcf8e3;
+}
+
+.option_default
+{
+
+}
+
+.share_on_social_media
+{
+	color: #ff8080;
+}
+
+.realisation .link
+{
+	visibility: hidden;
+	font-size: 22px;
+
+
+}
+
+.realisation:hover .link
+{
+	visibility: visible;
+	text-decoration: none;
+	color: #000;
+
+	
+
+}
+
+
+.realisation
+{
+	display: block;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+
+#realisation_1
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/10/Realisatie1_1140x380-1170x390.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 390px;
+	line-height: 390px;
+}
+
+#realisation_1:hover
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/11/Realisatie1_1140x380 transparant-1170x390.jpg");
+
+}
+
+
+#realisation_2
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/10/Realisatie2_421x380-580x523.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 390px;
+	line-height: 390px;
+}
+
+#realisation_2:hover
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/11/Realisatie2_421x380 transparant-580x523.jpg");
+
+}
+
+
+#realisation_3
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/10/Realisatie3_703x380-580x313.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 390px;
+	line-height: 390px;
+}
+
+#realisation_3:hover
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/11/Realisatie3_703x380 transparant-580x313.jpg");
+}
+
+
+#realisation_4
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/10/Realisatie4_630x775-471x580.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 810px;
+	line-height: 810px;
+}
+
+#realisation_4:hover
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/11/Realisatie4_630x775 transparant-471x580.jpg");
+}
+
+#realisation_5
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/10/Realisatie5_494x380-580x446.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 390px;
+	line-height: 390px;
+}
+
+#realisation_5:hover
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/11/Realisatie5_494x380 transparant-580x446.jpg");
+}
+
+#realisation_6
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/10/Realisatie6_494x380-580x446.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 390px;
+	line-height: 390px;
+}
+
+#realisation_6:hover
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/11/Realisatie6_494x380 transparant-580x446.jpg");
+}
+
+
+#realisation_7
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/10/Realisatie7_775x380-580x284.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 390px;
+	line-height: 390px;
+}
+
+#realisation_7:hover
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/11/Realisatie7_775x380 transparant-580x284.jpg");
+
+}
+
+#realisation_8
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/10/Realisatie8_349x380-532x580.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 390px;
+	line-height: 390px;
+}
+
+#realisation_8:hover
+{
+	background-image: url("http://www.diaz.be/uploads/2017/05/11/Realisatie8_349x380 transparant-532x580.jpg");
+
+}
+
+
+
+
+label.error
+{
+	color: red;
+	display: block;
+}
+
+.btn-default
+{
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+
+.btn-primary
+{
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+
+ul.breadcrumb {
+	background-color: #fff;
+	margin-left: -15px;
+	margin-bottom: 0px;
+}
+
+ul.context
+{
+	padding: 0px;
+}
+
+form-control:focus
+{
+	border color: #68a4c4;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	margin:0px;
+	padding:0px;
+}
+
+h1{
+	font-size: 24px;
+	color: #929292;
+	/*margin-top:10px;*/
+}
+
+h2{
+	font-size: 20px;
+	color: #929292;
+	/*margin-top:10px;*/
+
+}
+
+h3 {
+	font-size: 18px;
+	color: #929292;
+	/*margin-top:10px;*/
+}
+
+ul.breadcrumb li a {
+	color: #929292;
+}
+
+ul.breadcrumb li.active a {
+	color: #75cdcd;
+}
+
+#main_menu .dropdown-menu a {
+	line-height: 28px;
+	font-size: 12px;
+	background-color: #e8e8e8;
+	color: #929292;
+}
+
+ul.navbar-nav li a
+{
+
+	font-size: 16px;
+}
+
+
+
+/*.navbar-default
+{
+	margin-left: -15px;
+}*/
+
+.navbar-nav .active a {
+	text-decoration: underline;
+	font-weight: bold;
+	background-color: #fff;
+}
+
+ul.navbar-nav ul.dropdown-menu
+{
+	border: none;
+	padding: 0px;
+}
+
+#customer_zone_menu 
+{
+	
+	width: 100%;
+	border-top: 1px solid #929292;
+	border-bottom: 1px solid #929292;
+}
+
+#customer_zone_menu ul
+{
+	list-style: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#customer_zone_menu li
+{
+	display:inline;
+	padding-right: 12px;
+}
+#customer_zone_menu li a
+{
+	color: #75cdcd;
+		
+}
+
+.tile{ /* col-md-2 width */
+	width: 180px;
+	height: 160px;
+	
+	background-position: center; 
+	background-repeat: no-repeat;
+	display: block;
+	color:#929292;
+	text-align: center;
+	padding-top: 140px;
+}
+
+.tile:hover
+{
+	background-position: center; 
+	background-repeat: no-repeat;
+	color:#75cdcd;
+	text-align:center;
+}
+
+#link_manage
+{
+	background-image: url('http://www.diaz.be/uploads/2017/03/27/tools-112x112.png');
+}
+
+#link_manage:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/03/27/tools-1-112x112.png');
+}
+
+#link_online_ordering
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/online_ordering_grey_icon-112x112.png');
+}
+
+#link_online_ordering:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/online_ordering_green_icon-112x112.png');
+}
+
+#link_online_offering
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/24/online_offer_grey_icon-112x112.png');
+}
+
+#link_online_offering:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/24/online_offering_green_icon-112x112.png');
+}
+
+
+
+#link_manuals, #link_online_offering_preferences
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/24/manuals_grey_icon-112x112.png');
+}
+
+#link_manuals:hover, #link_online_offering_preferences:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/24/manuals_green_icon-112x112.png');
+}
+
+#link_pricelists
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/24/pricelists_grey_icon-112x112.png');
+}
+
+#link_pricelists:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/24/pricelists_green_icon-112x112.png');
+}
+
+#link_dessin_collection
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/26/dessin_collection_grey_icon-112x112.png');
+}
+
+#link_dessin_collection:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/26/dessin_collection_green_icon-112x112.png');
+}
+
+#link_folders
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/folders_grey_icon-112x112.png');
+}
+
+#link_folders:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/folders_green_icon-112x112.png');
+}
+
+#link_order_forms:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/03/16/bestelbons-1-112x112.png');
+}
+
+#link_order_forms
+{
+	background-image: url('http://www.diaz.be/uploads/2017/03/16/bestelbons-112x112.png');
+}
+
+
+#link_my_account
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/my_account_grey_icon-112x112.png');
+}
+
+#link_my_account:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/my_account_green_icon-112x112.png');
+}
+
+#link_technical_data
+{
+	background-image: url('http://www.diaz.be/uploads/2017/06/14/technical_data-1-112x112.png');
+}
+
+#link_technical_data:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/06/14/technical_data-112x112.png');
+}
+
+#link_internal
+{
+	background-image: url('http://www.diaz.be/uploads/2017/06/14/interne_documenten-1-112x112.png');
+}
+
+#link_internal:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/06/14/interne_documenten-112x112.png');
+}
+
+
+
+#link_out_of_collection
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/out_of_collection_grey_icon-112x112.png');
+}
+
+#link_out_of_collection:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/out_of_collection_green_icon-112x112.png');
+}
+
+
+#link_photos
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/photos_grey_icon-112x112.png');
+}
+
+#link_photos:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/photos_green_icon-112x112.png');
+}
+
+#link_my_dealer_page
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/my_dealer_page_grey_icon-112x112.png');
+}
+
+#link_my_dealer_page:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/my_dealer_page_green_icon-112x112.png');
+}
+
+
+#link_online_ordering_orders
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/online_ordering_orders_grey_icon-112x112.png');
+}
+
+#link_online_ordering_orders:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/online_ordering_orders_green_icon-112x112.png');
+}
+
+#link_online_ordering_new_order
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/online_ordering_add_grey_icon-112x112.png');
+}
+
+#link_online_ordering_new_order:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/online_ordering_add_green_icon-112x112.png');
+}
+
+#link_online_offering_offers
+{
+
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/online_ordering_orders_grey_icon-112x112.png');
+}
+
+#link_online_offering_offers:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/online_ordering_orders_green_icon-112x112.png');
+}
+
+#link_online_offering_new_offer
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/online_ordering_add_grey_icon-112x112.png');
+}
+
+#link_online_offering_new_offer:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/01/25/online_ordering_add_green_icon-112x112.png');
+}
+
+.manuals_cat.verticale_jaloezie,
+#link_product_23, #tag_185, #tag_187
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/verticale-112x112.png');
+}
+
+.manuals_cat.verticale_jaloezie:hover,
+#link_product_23:hover, #tag_185:hover, #tag_187:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/vertical_blinds_green_icon-112x112.png');
+}
+
+
+
+.manuals_cat.horizontale_jaloezie,
+#link_product_26, #tag_179, #tag_263, #tag_264, #tag_199, #tag_180, #tag_191, #tag_323
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/horizontale-112x112.png');
+}
+
+.manuals_cat.horizontale_jaloezie:hover,
+#link_product_26:hover, #tag_179:hover, #tag_263:hover, #tag_264:hover, #tag_199:hover, #tag_180:hover, #tag_191:hover, #tag_323:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/horizontal_blinds_green_icon-112x112.png');
+}
+
+
+#link_product_27
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/horizontale-112x112.png');
+}
+
+#link_product_27:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/horizontal_blinds_green_icon-112x112.png');
+}
+
+
+.manuals_cat.rolgordijnen,
+#link_product_28, #tag_242, #tag_243, #tag_244
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/rolgordijn-112x112.png');
+}
+
+.manuals_cat.rolgordijnen:hover,
+#link_product_28:hover, #tag_242:hover, #tag_243:hover, #tag_244:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/rollers_green_icon-112x112.png');
+}
+
+#link_product_29
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/rolgordijn-112x112.png');
+}
+
+#link_product_29:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/rollers_green_icon-112x112.png');
+}
+
+.manuals_cat.duo_roll,
+#link_product_30, #tag_36, #tag_37, #tag_197
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/duo-roll-112x112.png');
+}
+
+.manuals_cat.duo_roll:hover,
+#link_product_30:hover, #tag_36:hover, #tag_37:hover, #tag_197:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/duo_roll_green_icon-112x112.png');
+}
+
+.tag
+{
+	background-image: url('http://www.diaz.be/uploads/2017/06/28/folder_grey-112x112.png');
+}
+
+.tag:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/06/28/folder_green-112x112.png');
+}
+
+#tag_331
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/06/27/DIZZ-112x112.png');
+}
+
+#tag_331:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/06/27/DIZZ-1-112x112.png');
+}
+
+
+#tag_330
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/06/27/DIAZ-112x111.png');
+}
+
+#tag_330:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/06/27/DIAZ-1-112x111.png');
+}
+
+#tag_329
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/06/27/DIAZ_and_DIZZ-111x112.png');
+}
+
+#tag_329:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/06/27/DIAZ_and_DIZZ-1-111x112.png');
+}
+
+.manuals_cat.plisse,
+#link_product_31, #tag_181, #tag_189
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/plisse gordijnen-112x112.png');
+}
+
+.manuals_cat.plisse:hover,
+#link_product_31:hover, #tag_181:hover, #tag_189:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/plisse gordijnen-1-112x112.png');
+}
+
+.manuals_cat.vouwgordijn,
+#link_product_32, #tag_298, #tag_192, #tag_310
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/vouwgordijnen-112x112.png');
+}
+
+.manuals_cat.vouwgordijn:hover,
+#link_product_32:hover, #tag_298:hover, #tag_192:hover, #tag_310:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/roman_shades_green_icon-112x112.png');
+}
+
+.manuals_cat.paneelgordijn,
+#link_product_33, #tag_299, #tag_304
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/paneelgordijnen-112x112.png');
+}
+
+.manuals_cat.paneelgordijn:hover,
+#link_product_33:hover, #tag_299:hover, #tag_304:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/paneelgordijnen-1-112x112.png');
+}
+
+#tag_300, #tag_305
+{
+	background-image: url('http://www.diaz.be/uploads/2017/06/14/diversen-1-112x112.png');
+}
+
+#tag_300:hover, #tag_305:hover
+{
+	background-image: url('http://www.diaz.be/uploads/2017/06/14/diversen-112x112.png');
+}
+
+
+#link_product_34
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/03/vlakwanden-112x112.png');
+}
+
+#link_product_34:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/03/vlakwanden-1-112x112.png');
+}
+
+#link_product_35
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/overgordijnen-112x112.png');
+}
+
+#link_product_35:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/02/overgordijnen-1-112x112.png');
+}
+
+#link_product_36
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/03/gordijnrails-112x112.png');
+}
+
+#link_product_36:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/03/gordijnrails-1-112x112.png');
+}
+
+
+#link_product_37
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/03/gordijnstof-112x112.png');
+}
+
+#link_product_37:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/03/gordijnstof-1-112x112.png');
+}
+
+
+#link_product_38
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/03/verduisteringgscherm-112x112.png');
+}
+
+#link_product_38:hover
+{
+ 	background-image: url('http://www.diaz.be/uploads/2017/03/03/verduisteringgscherm-1-112x112.png');
+}
+
+.equal, .equal > div[class*='col-'] {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex:1 1 auto;
+}
+
+.modal-body{
+    max-height: 640px;
+    overflow-y: auto;
+}
+
+.languagemenu{
+    list-style:none;
+	
+}
+.languagemenu li{
+    display:inline;
+	padding: 5px;
+}
+
+.languagemenu li a{
+	color: #929292;
+}
+
+/*.navbar-header
+{
+	height: 71px; 
+}*/
+
+
+#content
+{
+	padding-bottom: 30px;
+}
+
+#footer
+{
+	background-color: #929292;
+	color: #f5f5f5;
+	bottom: 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#footer ul
+{
+	list-style:none;
+	padding-left: 0px;
+}
+
+#footer ul li a, #footer a
+{
+	color: #f5f5f5;
+}
+
+.footer-title {
+	margin-bottom: 20px;
+}
+
+.scrollup
+{
+    position: fixed;
+    width: 32px;
+    height: 32px;
+    bottom: 0;
+    right: 20px;
+    background: #222;
+	color: #f5f5f5;
+	text-align: center;
+	line-height: 32px;
+}
+
+.carousel
+{
+	 /*create margin for what follows*/
+	margin-bottom: 40px;
+}
+.carousel-indicators
+{
+	position: absolute;
+	/* bottom: -36px; */
+	width: 100%;
+	text-align:center;
+	margin-bottom: -50px;
+	margin-left:0px;
+	left:0px;
+}
+
+ol.carousel-indicators li.active
+{
+	background-color: #75cdcd;
+	border: 1px solid #75cdcd;
+	height: 10px;
+	width: 10px;
+	margin-left: 8px;
+
+}
+
+ol.carousel-indicators li
+{
+	background-color: #929292;
+	border: 1px solid #929292;
+	height: 10px;
+	width: 10px;
+	margin-left: 8px;
+}
+
+.post, .related_post{
+	margin-top: 20px;
+}
+
+.related_post a.readmore{
+	color: #fff;
+	background-color: #75cdcd;
+	padding: 5px;
+	font-style: italic;
+
+}
+
+.find-dealer
+{
+	border-left: 1px solid #75cdcd;
+	border-top: 1px solid #75cdcd;
+}
+
+#google-map
+{
+	height: 500px;
+}
+
+.tab-content {
+    
+}
+
+
+#department.nav-tabs {
+
+    margin:0px;
+    padding:0px;
+   	list-style:none;
+    width:100%;
+
+}
+
+.nav>li>a:hover {
+	background-color: #f5f5f5; /*zelfde als .panel-default */
+}
+
+.nav>li>a {
+	color:#75cdcd;
+}
+
+.nav-pills li.active a, .nav-pills li.active a:hover, .nav-pills li.active a:focus{
+	background-color: #75cdcd;
+	color: #fff;
+	font-weight: bold;
+}
+
+
+.productsteps.nav-pills li.active a, .productsteps.nav-pills li.active a:hover, .productsteps.nav-pills li.active a:focus{
+	background-color: #fff;
+	color: #75cdcd;
+	font-weight: bold;
+}
+
+.productsteps.nav-pills li a
+{
+	padding: 5px 5px;
+}
+
+.productsteps.nav-pills li a, .productsteps.nav-pills li a:hover, .productsteps.nav-pills li a:focus {
+	padding-left: 35px;
+	color:#929292;
+	word-wrap: break-word;
+}
+
+
+.active .number {
+    background-color: #75cdcd;
+    border:1px solid #75cdcd;
+    color: #fff;
+}
+
+.pager li.next a
+{
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	background-color: #75cdcd;
+	color: #ffffff;
+	border: none;
+	font-weight: bold;
+}
+
+.pager li.previous a
+{
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	background-color: #fff;
+	color: #929292;
+	font-weight: bold;
+	border: 1px solid #929292;
+	
+}
+
+.pager li a:hover
+{
+	color: #000000;
+}
+
+.pager li.finish button
+{
+	background-color: #75cdcd;
+	color: #ffffff;
+	font-weight: bold;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+.pager li.finish
+{
+	float: right;
+}
+
+#productprice
+{
+
+    color: #75cdcd;
+    text-align: right;
+    font-size: 24px;
+	display:none;
+    padding: 10px;
+}
+
+.number 
+{
+	content:'1';
+	display: block;
+	width:25px;
+	height:25px;
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	border-radius:20px;
+	background-color: #fff;
+	border:1px solid #ccc;
+	position: absolute;
+	left:0px;
+	top:0px;
+	text-align:center;
+	line-height:25px;
+}
+#wizard
+{
+	color: #929292;
+}
+#productoverview
+{
+	border: 1px solid #75cdcd;
+	color: #929292;
+	text-align: left;
+}
+
+#wizard h3
+{
+	line-height: 30px; 
+	margin-top: 5px;
+}
+
+#productoverview h3
+{
+	color: #75cdcd;
+	line-height: 30px; 
+	margin-top: 5px;
+}
+ul.productsteps
+{
+	list-style-type: none;
+}
+
+ul.productsteps li
+{
+	display: block;
+	width: 100%;
+	padding-bottom: 5px;
+}
+
+/* register_user */
+#register_user_intro {
+	margin-bottom: 20px;
+}
+
+/* debug bar */
+#debug-bar {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	z-index:99999;
+}
+
+
+/* my_dealer_page */
+#my-dealer-page--tabs {
+	margin-bottom: 20px;
+}
+
+#my-dealer-page--row-addimages {
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+#my-dealer-page--row-addimages .btn {
+	float:right;
+}
+
+#my-dealer-page--imageslist {
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+
+.my-dealer-images--imagewrapper {
+	margin-bottom: 20px;
+}
+
+.my-dealer-images--imagewrapper .thumb {
+	margin-bottom: 10px;
+}
+
+/* folders */
+#list_folders {
+	list-style:none;
+	margin:0px;
+	padding:0px;
+	margin-left:-5px;
+}
+
+#list_folders li {
+	width:25%;
+	float:left;
+	margin-bottom: 10px;
+}
+
+#list_folders .folder_wrapper {
+	margin-right:5px;
+	text-align: center;	
+}
+
+#list_folders .thumb {
+	/*height:140px;*/
+	margin-bottom: 5px;
+}
+
+#list_folders .thumb img {
+	max-width:100%;
+}
+
+#list_folders .caption {
+	height:50px;
+}
+
+@media only screen and (max-width: 992px) {   
+	#list_folders li {
+		width:32%;
+	}
+}
+
+@media only screen and (max-width: 768px) {   
+	#list_folders li {
+		width:100%;
+		text-align: center;
+	}
+
+	#list_folders .thumb img {
+		max-width:200px;
+	}
+}
+
+/* manuals */
+/*#list_folders,*/
+#list_pricelists,
+#list_orderforms,
+#list_manuals {
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+
+#list_manuals {
+	margin-left:-20px;
+}
+
+/*#list_folders .tag,*/
+#list_pricelists .tag,
+#list_orderforms .tag,
+#list_manuals .tag {
+	margin-bottom: 10px;
+}
+
+/*#list_folders .media_items,*/
+#list_pricelists .media_items,
+#list_orderforms .media_items,
+#list_manuals .media_items {
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+/* */
+
+#folders p.tag_title,
+#order_forms p.tag_title,
+#manuals p.tag_title,
+#pricelists p.tag_title
+{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.tag_title
+{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.tags
+{
+	list-style: none;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+
+.tags a
+{
+	color: #75cdcd;
+}
+
+#folders a,
+#order_forms a,
+#manuals a,
+#pricelists a
+{
+	color: #75cdcd;
+}
+
+
+#folders p.tag,
+#order_forms p.tag,
+#pricelists p.tag,
+#manuals p.tag
+{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#folders a,
+#order_forms a,
+#pricelists a,
+#manuals a
+{
+	color: #75cdcd;
+}
+
+#folders p,
+#order_forms p,
+#pricelists p,
+#manuals p
+{
+	margin-bottom: 0px;
+}
+
+
+/*#folders p.tag
+{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#folders a
+{
+	color: #75cdcd;
+}
+
+#folders p
+{
+	margin-bottom: 0px;
+}*/
+
+.btn-delete:before {
+	font-family: 'FontAwesome';
+	content:'\f1f8';
+	padding-right: 5px;
+}
+
+#printcollections
+{
+	height: 80%;
+}
+
+#printcollections a.tag
+{
+	display: inline-block;
+	width: 110px;
+	height: 20px;
+	color: #75cdcd;
+}
+
+
+/* dessin collectie */
+#preview_carousel
+{
+	position: relative;
+}
+
+#preview_carousel .carousel-caption
+{
+	/*
+	position: absolute;
+	top: -40px;
+	*/
+	text-shadow: none;
+	position:static;
+	margin: 0px;
+	padding:0px;
+
+	z-index: auto;
+	color: black;
+
+	height:40px;
+}
+
+#preview_carousel .carousel-control {
+	top:40px;
+}
+
+#preview_carousel .carousel-indicators
+{
+	position: absolute;
+	width: 100%;
+	margin-left: 0%;
+	text-align: center;
+	left: 0%;
+	margin-bottom: -50px;
+}
+
+#preview_carousel .download_preview {
+	text-decoration: none;
+	font-size:15px;
+	color:#75cdcd;
+}
+
+#preview_carousel .download_preview:before {
+    font-family: 'FontAwesome';
+    content: '\f019';
+    padding-right: 5px;	
+}
+
+/* */
+
+/* post overview */
+#search-container .post_btn_readmore,
+#posts-container .post_btn_readmore {
+	background-color:#75cdcd;
+	font-style: italic;
+	color:#fff;
+	border-radius: 0;
+}
+
+#posts-container .post_item .imageholder {
+	margin-bottom:20px;
+}
+
+#search-container .post_item h2,
+#posts-container .post_item h2 {
+	margin:0px;
+	padding:0px;
+	margin-bottom: 20px;
+}
+
+#posts-container .post_item {
+	margin-bottom: 30px;	
+}
+
+/* post detail */
+
+.post_detail_item {
+	margin-bottom: 90px;
+}
+
+.post_detail_item h1 {
+	margin:0px;
+	padding:0px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.post_detail_item .image_gallery {
+	list-style:none;
+	margin:0px;
+	padding:0px;
+	overflow: hidden;
+	margin-left:-5px;
+	margin-right:-5px;
+}
+
+.post_detail_item .image_gallery li {
+	float:left;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	width:16.6%;
+}
+
+.post_detail_item .image_gallery li img {
+	height:100px;
+	width:auto;
+}
+
+/*.post_detail_item .share_knoppen{
+    position:relative;
+    margin-top:20px;
+    margin-left:15px;
+}
+*/
+
+.share_buttons
+{
+	margin-top: 20px;
+
+}
+.post_images
+{
+	float: right; 
+	margin-left: 20px; 
+	margin-bottom: 20px; 
+	margin-top: 10px; 
+	padding-right: 15px; 
+	max-width: 50%;
+	
+}
+.post_message
+{
+	margin-bottom: 20px;
+	padding-left: 15px;
+}
+
+.post_detail_item {
+	margin-bottom: 20px;
+}
+
+.post_detail_item .bericht_tekst h1 {
+}
+.post_detail_item .bericht_tekst h2,
+.post_detail_item .bericht_tekst h3 {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 992px) {   
+	.post_detail_item .imageholder {
+		margin-bottom: 30px;
+	}
+}
+
+@media only screen and (max-width: 768px) {   
+	.post_detail_item .image_gallery li {
+		width:25%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.post_detail_item .image_gallery li {
+		width:100%;
+	}
+}
+
+/* searchresults */
+.search_item {
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	border-bottom:solid 1px #ddd;
+}
+
+.search_item .post-title {
+	margin-bottom:10px;
+}
+
+/* sticky footer */
+/* https://getbootstrap.com/2.3.2/examples/sticky-footer.html */
+html,
+body {
+height: 100%;
+/* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	/* Negative indent footer by it's height */
+	margin: 0 auto -300px;
+}
+
+/* Set the fixed height of the footer here */
+#push,
+#footer {
+	height: 300px;
+}
+
+#footer {
+}
+
+@media only screen and (max-width: 992px) {    
+	#footer {
+		height:auto;
+	}
+
+	.footer-row1 .col {
+		margin-bottom: 30px;
+	}
+}
+
+/* producten overzicht */
+.row-products-text-top {
+	margin-bottom: 60px;
+}
+
+.row-products-text-bottom {
+	margin-top: 60px;
+}
+
+.row-products-text-top h1,
+.row-products-text-bottom h1,
+.row-products-text-top h2,
+.row-products-text-bottom h2 {
+	margin-bottom: 20px;
+}
+
+/* vacatures */
+@media only screen and (max-width: 992px) {    
+	#col_vacancies_list {
+		margin-bottom: 40px;
+	}
+}
+
+
+.vacancy-apply-online {
+	margin-bottom: 20px;
+}
+
+.panel-vacancy .panel-heading a {
+	color:#75cdcd;
+}
+
+/* algemeen */
+h1.page-title,
+h2.page-title {
+	margin-bottom:20px;
+}
+
+/* modals */
+.modal-header h3 {
+	margin-top:10px;
+}
+
+#url_login,
+#url_logout {
+	padding-top:8px;
+	padding-bottom:8px;
+	display: inline-block;
+}
+
+#header_menu_navbar {
+	margin-bottom: 0px;
+}
+
+#main_menu {
+	padding-top: 38px;
+}	
+
+#main_menu a {
+	/*
+	padding-top: 0px;
+	padding-bottom: 0px;
+	*/
+	color:#929292;
+}
+
+#main_menu li.active a {
+	background-color:transparent;
+	color:#929292;
+}
+
+#col_main_menu {
+	border:0px;	
+}
+
+@media only screen and (max-width: 1200px) { 
+	#col_main_menu {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+	#main_menu {
+		padding-top:30px;
+	}
+}
+
+@media only screen and (max-width: 768px) {   
+	#main_menu {
+		padding-left:15px;
+		padding-right:15px;
+	}
+}
+@media only screen and (max-width: 992px) {   
+	#main_menu a {
+		padding-bottom: 10px;	
+	}
+	
+	.header_col_search {
+		padding-bottom: 20px;
+	}
+}
+
+@media only screen and (max-width: 768px) { 
+	#main_menu {
+		padding-top:20px;
+	}
+
+	#main_menu .dropdown-menu a {
+		background-color:transparent;
+	}
+
+	#main_menu .dropdown-toggle {
+		background-color: transparent;
+	}
+}
+
+#main_menu_button_collapse {
+	margin-top: 0px;
+}
+
+#header_logo {
+	display: block;
+	height:auto;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+
+#header_row_top {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#header_search_term {
+	border-radius: 0;
+}
+
+#header_btn_search {
+	height: 34px; 
+	border:0px;
+	margin-left:0px;
+}
+
+#header_menu_container {
+	padding-left:0px;
+	padding-right:0px;
+}
+
+/* buildforlife */
+#row_buildforlife {
+	font-size: 16px;
+	margin-bottom: 30px;
+	line-height: 20px;
+}
+
+#row_buildforlife .page-title {
+	color: #75cdcd;	
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+/* customer zone photos */
+#photos_list .thumb {
+	background-size:cover;
+	background-repeat: no-repeat;
+	height:150px;
+	width:150px;
+	display:block;
+	margin-bottom: 5px;
+}
+
+#photos_list .download {
+	text-decoration: none;
+	color:#75cdcd;
+}
+
+#photos_list .download:before {
+	font-family: 'FontAwesome';
+	content:'\f019';
+	padding-right: 5px;
+}
+
+#photos_list .photos_list_title {
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+
+#photos_list .flexslider {
+	margin-bottom: 0px;
+	overflow: hidden;
+}
+
+#photos_list .flex-navigation {
+	font-style: 20px;
+}
+
+#photos_list .flex-navigation i {
+	font-size: 15px;
+	/*position: relative;
+	top:0px;*/
+}
+
+#photos_list .flex-prev i {
+	padding-right: 10px;
+}
+
+#photos_list .flex-next i {
+	padding-left: 10px;
+}
+
+#photos_list .flex-navigation a {
+	color:#75cdcd;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+#photos_list .row {
+	margin-bottom: 30px;
+}
+
+#photos_list .flex-disabled {
+	display:none;
+}
+
+.group
+{
+	border: 1px solid #75cdcd;
+	padding: 20px;
+	display: block;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 10px;
+}
